@@ -1,0 +1,11 @@
+{
+  "newsapi_test.py": true, 
+  "newsapi_test.py::NewsApiTest::test_api_key_was_successfully_collected": true, 
+  "newsapi_test.py::NewsApiTest::test_data_gets_retrived_from_the_newsapi": true, 
+  "newsapi_test.py::NewsApiTest::test_number_of_returned_headlines_is_less_or_equal_to_10": true, 
+  "newsapi_test.py::NewsApiTest::test_store_api_response_has_data": true, 
+  "newsapi_test.py::NewsApiTest::test_store_api_response_has_data_a_description": true, 
+  "newsapi_test.py::NewsApiTest::test_store_api_response_has_data_a_title": true, 
+  "newsapi_test.py::NewsApiTest::test_store_api_response_has_data_a_url": true, 
+  "newsapi_test.py::NewsApiTest::test_user_has_selected_news_source": true
+}
